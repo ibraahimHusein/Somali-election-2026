@@ -29,7 +29,7 @@ This is a simple web application built with **HTML**, **CSS**, and **JavaScript*
 No installation is required. Simply clone this repository and open the `index.html` file in your browser:
 
 ```bash
-git clone https://github.com/your-username/somali-election-2026.git
+git clone https://github.com/ibraahimHusein/somali-election-2026.git
 cd somali-election-2026
 open index.html
 
